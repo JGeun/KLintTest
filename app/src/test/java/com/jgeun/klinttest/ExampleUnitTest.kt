@@ -1,7 +1,6 @@
 package com.jgeun.klinttest
 
 import org.junit.Test
-
 import org.junit.Assert.*
 
 /**
