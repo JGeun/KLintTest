@@ -10,4 +10,6 @@ class MainActivity : AppCompatActivity() {
 
 		println("test")
 	}
+
+	companion object{fun testCI(){println("wow ci")}}
 }
